@@ -1,6 +1,6 @@
 <?php
 
-include_once 'inc/config.inc.php';
+
 include_once 'inc/Conexion.inc.php';
 include_once 'inc/Redireccion.inc.php';
 include_once 'inc/ControlSesion.inc.php';
